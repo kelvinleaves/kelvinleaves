@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![kelvinleaves's github stats](https://github-readme-stats.vercel.app/api?username=kelvinleaves&theme=graywhite&count_private=true&show_icons=true&line_height=40)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinleaves&theme=graywhite)
 <!--
 **kelvinleaves/kelvinleaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
